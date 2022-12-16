@@ -4,7 +4,10 @@ Unlike the original, this snake is able to:
 - Avoid colluding with itself
 - Avoid colluding with other snakes
 
-That's a pretty basic snake :)
+>Still needs to learn to find food
+>Would be great for it to learn not to trap itself
+
+Overall, that's a pretty basic snake :)
 
 You can find it [here](https://play.battlesnake.com/u/doodoal/smarter-dummy/)
 
