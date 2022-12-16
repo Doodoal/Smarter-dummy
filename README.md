@@ -1,4 +1,4 @@
-Written using the official Battlesnake starter template as a base.
+Written using the [official Battlesnake starter template](https://replit.com/@Battlesnake/starter-snake-python?v=1) as a base.
 Unlike the original, this snake is able to:
 - Avoid walls
 - Avoid colluding with itself
