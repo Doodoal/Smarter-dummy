@@ -1,20 +1,11 @@
-# Battlesnake Python Starter Project
+Written using the official Battlesnake starter template as a base.
+Unlike the original, this snake is able to:
+- Avoid walls
+- Avoid colluding with itself
+- Avoid colluding with other snakes
 
-### An official Battlesnake template written in Python. Get started at [play.battlesnake.com](https://play.battlesnake.com).
+That's a pretty basic snake :)
 
-![Battlesnake Logo](https://media.battlesnake.com/social/StarterSnakeGitHubRepos_Python.png)
+You can find it [here] (https://play.battlesnake.com/u/doodoal/smarter-dummy/)
 
-This project is a great starting point for anyone wanting to program their first Battlesnake in Python. It can be run locally or easily deployed to a cloud provider of your choosing. See the [Battlesnake API Docs](https://docs.battlesnake.com/api) for more detail. 
-
-## Technologies Used
-
-This project uses [Python 3](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/).
-
-## Run Your Battlesnake
-
-1. Click the green 'Run' button to start your Battlesnake.
-2. Use your repl.co URL to register your Battlesnake and play games on [play.battlesnake.com](https://play.battlesnake.com).
-
-## Next Steps
-
-Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
+![Gif of smarter dummy] (https://exporter.battlesnake.com/games/aa426b67-68d4-4b73-8297-7d97f44e8f97/gif)
