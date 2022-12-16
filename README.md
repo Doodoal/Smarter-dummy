@@ -5,6 +5,7 @@ Unlike the original, this snake is able to:
 - Avoid colluding with other snakes
 
 >Still needs to learn to find food
+
 >Would be great for it to learn not to trap itself
 
 Overall, that's a pretty basic snake :)
