@@ -10,7 +10,7 @@ Unlike the original, this snake is able to:
 
 Overall, that's a pretty basic snake :)
 
-You can find it [here](https://play.battlesnake.com/u/doodoal/smarter-dummy/)
+You can find it [here](https://play.battlesnake.com/profile/doodoal#battlesnakes)
 
 ![Avoiding walls](https://exporter.battlesnake.com/games/e18de708-e1fb-47e8-a23b-0dd1eb5baf03/gif)
 
